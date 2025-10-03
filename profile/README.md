@@ -1,5 +1,6 @@
-## ZHdK Digital Tools 👋
+## ZHdK Critical Coding Repositories 👋
 
-Repositories for the ZHdK Digital Tools Module. 
+Repositories for the ZHdK Critical Coding Module. 
 
-Example Code and Student Projects
+- Example Code
+- Student Projects
